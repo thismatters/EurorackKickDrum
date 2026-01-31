@@ -3224,7 +3224,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 65f9052d-7638-46a0-8c8f-1e964265b8f4)
     )
-    (fp_text value "out" (at 0.622 -6.6 unlocked) (layer "F.SilkS")
+    (fp_text value "out" (at 0.128 -6.6 unlocked) (layer "F.SilkS")
         (effects (font (size 2 2) (thickness 0.3)))
       (tstamp 830fbd14-b18b-470f-8300-5b69aeceea39)
     )
