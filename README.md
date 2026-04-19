@@ -43,3 +43,7 @@ There are part numbers in the [BOM](kick-drum.csv) for many of the parts (not fo
 
 
 ## Changelog
+
+### V1
+- [x] Fixed critical bug which shorted the bridged-T to the Tune depth chain.
+- [x] Fixed footprint for Q2

@@ -14,7 +14,7 @@
 "13","J4","1","PITCH CV","Eurorack:AudioJack2_Tayda_A-2566","","Tayda","A-2566",""
 "14","J5","1","OUTPUT","Eurorack:AudioJack2_Tayda_A-2566","","Tayda","A-2566",""
 "15","Q1","1","BCM857DS,135","Package_SO:TSOP-6_1.65x3.05mm_P0.95mm","","","",""
-"16","Q2","1","BC547C","Package_TO_SOT_SMD:SOT-23-3","","Mouser","621-BC847C-13-F",""
+"16","Q2","1","BC847","Package_TO_SOT_SMD:SOT-23","","Mouser","621-BC847C-13-F",""
 "17","Q3","1","BCM847DS,135","Package_SO:TSOP-6_1.65x3.05mm_P0.95mm","","","",""
 "18","R1, R2","2","10","Resistor_SMD:R_0805_2012Metric","","","",""
 "19","R3","1","39K","Resistor_SMD:R_0805_2012Metric","","","",""
